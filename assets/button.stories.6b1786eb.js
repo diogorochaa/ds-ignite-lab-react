@@ -1,0 +1,2 @@
+import{B as t}from"./button.eb5517be.js";import"./index.module.0b9edbc5.js";import"./index.9e35c7d4.js";import"./iframe.b904b54f.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.85b618d0.js";const s={title:"Components/Button",component:t,args:{children:"Hello World"}},i={},l=["Default"];export{i as Default,l as __namedExportsOrder,s as default};
+//# sourceMappingURL=button.stories.6b1786eb.js.map
